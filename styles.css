@@ -1,0 +1,19 @@
+*,
+::before
+::after {
+  padding:0;
+  margin:0;
+  box-sizing: border-box
+}
+
+h1{
+  text-align: center;
+  font-family:"Raleway";
+}
+
+body{
+  font-family:"Baskervville";
+  background-color:rgb(20,30,40);
+  color:linen;
+}
+  
